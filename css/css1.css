@@ -1,0 +1,30 @@
+h1{
+    height:40px;
+    margin-bottom:30px;
+   padding-bottom:1px solid;
+    text-size-adjust:20px;
+    
+    color:white;
+}
+
+.cuadro{
+    background-color: #4e4d4d;
+    margin:400px 160px;
+    margin-top:180px;
+    margin-top:4px solid #017bab;
+    padding:20p 30px;
+}
+p{
+    height:40px;
+    text-size-adjust:40px;
+    border-bottom:1px solid;
+    text-decoration:underline;
+    color:white;
+}
+a:hover{
+    text-decoration:none;
+     color:white;
+}
+body{
+    background-image:url("..img/bg.png");
+}
